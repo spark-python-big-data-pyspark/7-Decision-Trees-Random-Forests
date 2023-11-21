@@ -1,6 +1,8 @@
 # 7-Decision-Trees-Random-Forests
 1. [Tree Methods Theory and Reading](#schema1)
 2. [Tree Methods Documentacion Examples](#schema2)
+3. [Decision Tree and RandomForest Example](#schema3)
+4. [Random Forest - Classification Consulting Project](#schema4)
 
 <hr>
 
@@ -108,6 +110,19 @@ GBT ACCURACY:
 0.9230769230769231
 ```
 
+
+<hr>
+
+<a name="schema3"></a>
+
+## 3. Decision Tree and RandomForest Example
+Tree Methods Code Along.ipynb
+<hr>
+
+<a name="schema4"></a>
+
+## 4. Random Forest - Classification Consulting Project
+Tree_Methods_Consulting_Project.ipynb
 
 
 
